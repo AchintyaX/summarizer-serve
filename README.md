@@ -4,7 +4,7 @@ An attempt to learn MLFlow, by inferencing T5 transformer architecture and using
 Here we are running the experiment using mlflow and then using mlflow for serving the model. 
 
 ## set up
-1. clone the repo
+1. clone the repo, install poetry using `pip install poetry`
 2. run `poetry install`
 3. run `poetry run python text_summarizer.py `
 
